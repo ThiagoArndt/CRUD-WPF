@@ -1,5 +1,6 @@
 # CRUD-WPF
 
+```
 CREATE DATABASE dbWPF --Execute esta linha sozinha
 USE dbWPF --Depois execute esta linha sozinha
 
@@ -13,3 +14,5 @@ CREATE TABLE infoTable(ID INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
                     )
 
 					SELECT * FROM infoTable
+
+```
